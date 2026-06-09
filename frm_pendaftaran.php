@@ -1,3 +1,4 @@
+<?php include "koneksi.php"; ?>
 <form method="POST" action="sv_pendaftaran.php">
     <label>Nama Lengkap</label>
     <input type="text" name="nama" placeholder="Masukkan nama lengkap">
